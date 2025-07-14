@@ -1,4 +1,4 @@
-Projects from my Digital Media - Data Arts class.
+**Projects from my Digital Media - Data Arts class.**
 
 This course explored the intersection of data, creativity, and ethics through hands-on digital artmaking. Instead of traditional writing, we used methods like animation, glitch art, video, and code to interrogate the role of data in our everyday lives.
 
@@ -9,7 +9,7 @@ We asked questions like:
 
 My projects ranged from raw data visualizations to experimental digital artworks that challenged conventional ideas of objectivity, surveillance, privacy, and aesthetics.
 
-This repo documents my creative responses and technical experiments from the course.
+***This repo documents my creative responses and technical experiments from the course.***
 
 -----
 
